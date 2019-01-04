@@ -1,0 +1,34 @@
+
+// let router = express.Router();
+
+// const confimongo = require ('../configurations/config-mongo');
+// mongoose.connect(confimongo.database);
+ 
+// router.get('/', (req,resp) => {
+
+//       resp.json('users');
+// });
+
+// module.exports = router;
+
+
+
+// let http = require('http');
+
+// function executeRequest(req,res) {
+      
+//       res.write('bonjour its working now le zebeuul');
+//       res.end();
+
+// }
+
+// http.createServer(executeRequest).listen(4300);
+// let users = require('./controllers/users-controller');
+
+
+// app.use((req,resp,next)=>{
+      
+      //       console.log("middleware")
+      //       next();
+      
+      // });
